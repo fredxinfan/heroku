@@ -23,7 +23,7 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency "heroku-api",      "0.3.18"
   gem.add_dependency "launchy",         "2.4.3"
-  gem.add_dependency "netrc",           "0.10.3"
+  gem.add_dependency "netrc",           "0.11.0"
   gem.add_dependency "rest-client",     "1.8.0"
   gem.add_dependency "rubyzip",         "1.1.7"
   gem.add_dependency "multi_json",      "1.11.2"
